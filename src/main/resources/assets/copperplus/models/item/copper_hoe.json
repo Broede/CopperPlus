@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "copperplus:item/copper_hoe"
+  }
+}

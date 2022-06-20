@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "copperplus:copper_nugget"
+    }
+  },
+  "result": {
+    "item": "copperplus:copper_button"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "copperplus:block/copper_pressure_plate" },
+    "powered=true": { "model": "copperplus:block/copper_pressure_plate_down" }
+  }
+}

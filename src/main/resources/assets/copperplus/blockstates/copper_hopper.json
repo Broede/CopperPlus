@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=down":  { "model": "copperplus:block/copper_hopper"                },
+    "facing=north": { "model": "copperplus:block/copper_hopper_side"           },
+    "facing=south": { "model": "copperplus:block/copper_hopper_side", "y": 180 },
+    "facing=west":  { "model": "copperplus:block/copper_hopper_side", "y": 270 },
+    "facing=east":  { "model": "copperplus:block/copper_hopper_side", "y": 90  }
+  }
+}
